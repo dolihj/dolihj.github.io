@@ -1,7 +1,12 @@
 ---
-title: 🪴 Quartz 3.
+title: 🪴 Dolihj
 enableToc: false
 ---
+
+# Hi! I am DoliHJ
+
+[[004 Be a Reader]]
+
 
 Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
 
