@@ -3,7 +3,7 @@ embeded img test with wikilink
 ![[Hyp3.jpg]]
 
 ![](hyper.png)
-[[GitHub/Misc/004_BookReview/ChrisBailey_Hyperfocus]]
+[[ChrisBailey_Hyperfocus]]
  
 ![](mas.png)[RobertGreen_Mastery](RobertGreen_Mastery.md)
 
