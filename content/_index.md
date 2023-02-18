@@ -5,8 +5,9 @@ enableToc: false
 
 # Hi! I am DoliHJ
 
-[[004 Be a Reader]]
-
+wiki link : [[004 Be a Reader]]
+embeded
+![[tyr.png]]
 
 Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
 
