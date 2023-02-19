@@ -7,9 +7,11 @@ enableToc: false
 
 This page initiated 2023. 02.18 by using [Quartz ](https://github.com/jackyzha0/quartz)+ [GitHub Page ](https://pages.github.com/)
 
+001 Network - Learn from Mistake  : [[001 network index]]
+002 Automation - Network Automation : [[002_Automation]]
 
+003 English as a Second language : [[003 English Training]]
 004 Book Reading  : [[004 Be a Reader]]
-
 
 
 
