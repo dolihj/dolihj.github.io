@@ -1,11 +1,11 @@
 # Let's Read and Review
 
 ![](hyper.png)
-[[GitHub/Misc/004_BookReview/ChrisBailey_Hyperfocus]]
+[[004d_ChrisBailey_Hyperfocus]]
  
-![](mas.png)[RobertGreen_Mastery](RobertGreen_Mastery.md)
+![](mas.png)[004f_RobertGreen_Mastery](004f_RobertGreen_Mastery.md)
 
-![](cant.png)[Can't Hurt Me_David Goggins](DavidGoggins_CantHurtMe.md)
+![](cant.png)[Can't Hurt Me_David Goggins](004e_DavidGoggins_CantHurtMe.md)
 
 
 ![](tyr.png)[Tyranny of Merit]()
@@ -16,13 +16,11 @@
 
 ![](edu.png)[Educated]()
 
-![](thi.png)[
-AdamGrant_ThinkAgain_Part1](AdamGrant_ThinkAgain_Part1.md) 
-[Think Again Part2](AdamGrant_ThinkAgain_Part2.md) 
-[Think Again Part3](AdamGrant_ThinkAgain_Part3.md) [ Draft_Memo ](AdamGrant_ThinkAgain_memo.md) 
+![](thi.png)[](004b1_AdamGrant_ThinkAgain_Part1.md) 
+[Think Again Part2](004b2_AdamGrant_ThinkAgain_Part2.md) 
+[Think Again Part3](004b3_AdamGrant_ThinkAgain_Part3.md) [ Draft_Memo ](004b_AdamGrant_ThinkAgain_memo.md) 
 
-![](ori.png)[
-AdamGrant_Originals](AdamGrant_Originals.md)
+![](ori.png)[](004a_AdamGrant_Originals.md)
 
 # To Read
-[4b_toRead](4b_toRead.md)
+[004_toRead](004_toRead.md)

@@ -5,12 +5,16 @@ enableToc: false
 
 # Hi! I am DoliHJ
 
-This page initiated 2023. 02.18
+This page initiated 2023. 02.18 by using [Quartz ](https://github.com/jackyzha0/quartz)+ [GitHub Page ](https://pages.github.com/)
 
-wiki link : [[004 Be a Reader]]
-embeded
-![[img/tyr.png]]
 
+004 Book Reading  : [[004 Be a Reader]]
+
+
+
+
+## Get Started Quartz 
+> 📚 Step 1: [Setup your own digital garden using Quartz](notes/setup.md)
 Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
 
 1. Extremely fast natural-language [[notes/search]]
@@ -21,13 +25,7 @@ Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-th
 
 Check out some of the [amazing gardens that community members](notes/showcase.md) have published with Quartz or read about [why I made Quartz](notes/philosophy.md) to begin with.
 
-
-Returning user? Figure out how to [[notes/updating|update]] your existing Quartz garden.
-
 If you prefer browsing the contents of this site through a list instead of a graph, you see a list of all [setup-related notes](/tags/setup).
-
-## Get Started Quartz 
-> 📚 Step 1: [Setup your own digital garden using Quartz](notes/setup.md)
 
 ### Troubleshooting
 - 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
