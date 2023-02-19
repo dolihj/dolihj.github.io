@@ -6,6 +6,7 @@ enableToc: True
 # Hi! I am DoliHJ
 
 This page initiated 2023. 02.18 by using [Quartz ](https://github.com/jackyzha0/quartz)+ [GitHub Page ](https://pages.github.com/)
+Here is how I built mine -[[100a Obsidian Publish - Quartz and GitHub Page]]
 
 ## 001 Network  Learn from Mistake  : [[001 network index]]
 
@@ -18,6 +19,7 @@ This page initiated 2023. 02.18 by using [Quartz ](https://github.com/jackyzha0/
 
 
 ## Get Started Quartz 
+
 > 📚 Step 1: [Setup your own digital garden using Quartz](notes/setup.md)
 Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
 
