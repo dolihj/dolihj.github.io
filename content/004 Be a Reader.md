@@ -1,9 +1,7 @@
 # Let's Read and Review
-embeded img test with wikilink 
-![[Hyp3.jpg]]
 
 ![](hyper.png)
-[[ChrisBailey_Hyperfocus]]
+[[GitHub/Misc/004_BookReview/ChrisBailey_Hyperfocus]]
  
 ![](mas.png)[RobertGreen_Mastery](RobertGreen_Mastery.md)
 
