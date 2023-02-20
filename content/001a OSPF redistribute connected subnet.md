@@ -5,4 +5,4 @@ Question : In OSPF redistribute statement - what is the difference between
 
 without subnet options, it redistribute the classful network only ( without subnet mask )
 
-![[001a1_ospf_redistribute_subnet.jpg]]
+![](001a1_ospf_redistribute_subnet.jpg)
