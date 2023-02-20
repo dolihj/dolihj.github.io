@@ -1,6 +1,6 @@
 # 2023.02 
 
-02.12 How do airplanes actually fly? - Raymond Adkins https://youtu.be/p4VHMsIuPmk
+[02.12 How do airplanes actually fly?](003a2_airplane.md) - Raymond Adkins https://youtu.be/p4VHMsIuPmk
 
 02.19  Uncovering the brain's biggest secret - Melanie E. Peffer  https://youtu.be/iQqSKfPop28
 

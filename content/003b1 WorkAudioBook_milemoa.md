@@ -4,7 +4,7 @@
 
 Workaudiobook 이라는 프로그램인데, 윈도우와 Android를 지원합니다. 
 
-~~기본적으로는 무료지만, Donate 으로 후원금을 낼수도 있습니다. 
+~~기본적으로는  Daily 10 min 무료지만, Donate 으로 후원금을 낼수도 있습니다. 
 
 [http://www.workaudiobook.com/](http://www.workaudiobook.com/)
 
