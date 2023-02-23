@@ -8,13 +8,13 @@ enableToc: True
 This page initiated 2023. 02.18 by using [Quartz ](https://github.com/jackyzha0/quartz)+ [GitHub Page ](https://pages.github.com/)
 Here is how I built mine -[[100a Obsidian Publish - Quartz and GitHub Page]]
 
-## 001 Network  Learn from Mistake  : [[001 network index]]
+## [[001 network index |001 Newtork ]]
 
-## 002 Automation - Network Automation : [[002_Automation]]
+## [[002_Automation |002 Newtork Automation]]
 
-## 003 English as a Second language : [[003 English Training]]
+## [[003 English Training]]
 
-## 004 Book Reading  : [[004 Be a Reader]]
+## [[004 Be a Reader |004 Book Reading]]
 
 
 
@@ -33,8 +33,5 @@ Check out some of the [amazing gardens that community members](notes/showcase.md
 
 If you prefer browsing the contents of this site through a list instead of a graph, you see a list of all [setup-related notes](/tags/setup).
 
-### Troubleshooting
-- 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
-- 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
-- 👀 [Discord Community](https://discord.gg/cRFFHYye7t)
+
 
