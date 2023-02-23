@@ -8,7 +8,7 @@ enableToc: True
 This page initiated 2023. 02.18 by using [Quartz ](https://github.com/jackyzha0/quartz)+ [GitHub Page ](https://pages.github.com/)
 Here is how I built mine -[[100a Obsidian Publish - Quartz and GitHub Page]]
 
-## [[001 network index |001 Newtork ]]
+## [[001 network index | 001 Learn Network]]
 
 ## [[002_Automation |002 Newtork Automation]]
 
