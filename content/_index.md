@@ -6,16 +6,20 @@ enableToc: True
 # Hi! I am DoliHJ
 
 This page initiated 2023. 02.18 by using [Quartz ](https://github.com/jackyzha0/quartz)+ [GitHub Page ](https://pages.github.com/)
-Here is how I built mine -[[100a Obsidian Publish - Quartz and GitHub Page]]
+Here is how I built mine -[[005 Obsidian Publish - Quartz and GitHub Page]]
 
-## [[001 network index | 001 Learn Network]]
+## [[100 network Network |100.Learn Network]]
 
-## [[002_Automation |002 Newtork Automation]]
+## [[200_Automation |200.Newtork Automation]]
 
-## [[003 English Training]]
+## [[300.English Training]]
 
-## [[004 Be a Reader |004 Book Reading]]
+## [[400 Be a Reader |400.Book Reading]]
 
+## [[500.Learn Tools and tips]]
+
+
+### [[000_ScatterFocus |000.ScatterFocus]] : chitchat -잡다한 이야기
 
 
 ## Get Started Quartz 
