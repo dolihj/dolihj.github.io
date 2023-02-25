@@ -50,8 +50,7 @@ export GOPATH=/Users/$USER/go
 export PATH=$GOPATH/bin:$PATH
 ```
 
-Tshoot 
-![[Pasted image 20230218184007.png]]
+
 ### Workflow permissions change in GitHub 
 
 Repo Setting > Actions > General > 

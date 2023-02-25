@@ -63,7 +63,7 @@
 @태극 : 모임을 통해 많이 배우고 마음에 새길 것이 많다. 
 
 @배운철 : 2nd brain을 하는 이유는 좋은 output을 위한 process를 위해서이다.   next book  말고 next column  으로 시작해보자.  GTD work flow 추천 
-![](gtd.png)
+![](003_i_gtd.png)
 
 @분석맨: GTD의 방법보다 기본 원칙을 중요시 하자.
 
