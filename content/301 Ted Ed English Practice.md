@@ -2,7 +2,8 @@
 
 [02.12 How do airplanes actually fly?](300a2_airplane.md) - Raymond Adkins https://youtu.be/p4VHMsIuPmk
 
-02.19  Uncovering the brain's biggest secret - Melanie E. Peffer  https://youtu.be/iQqSKfPop28
+[[300a3_neuron|02.19  Uncovering the brain's biggest secret]] - Melanie E. Peffer   https://youtu.be/iQqSKfPop28
+
 
 02.26 The left brain vs. right brain myth - Elizabeth Waters https://youtu.be/ZMSbDwpIyF4
 
