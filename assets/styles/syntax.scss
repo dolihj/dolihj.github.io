@@ -9,12 +9,12 @@
 .chroma .lntable {
   width: auto !important;
   overflow: auto !important;
-  display: flex; //HJchanged block !important;
+  display: block !important;
 }
 
 /* LineHighlight */
 .chroma .hl {
-  display: block !important;
+  display: flex; //HJchanged block !important;
   width: 100% !important;
 }
 
@@ -63,5 +63,5 @@ pre.chroma {
 }
 
 .katex {
-  font-size: 0.8em //HJchanged 1.1em !important;
+  font-size: 1.1em !important;
 }
