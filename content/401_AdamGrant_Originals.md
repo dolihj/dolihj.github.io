@@ -5,6 +5,10 @@
 ![](Originals_7_8.jpeg)
 
 ![](Originals_youtube.jpg)
+# Author's Ted
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fxbCHn6gE3U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 
 What is Originality : By not having conformity originality championing! a set of novel idea which will refuse to take the default as the only option. 
 How to start originality : Question to defaults. Do not take the default granted and believe you have freedom to be flexible 

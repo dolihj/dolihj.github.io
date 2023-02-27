@@ -53,7 +53,6 @@ int1_ip : "10.1.1.1"
 
 ## host2.yml variable
 ```yml 
-
 int1_desc: "HOST2 CONNECTED TO SITE BBB "
 int1_ip : "10.2.2.1"
 int1_mask: "255.255.255.0"
