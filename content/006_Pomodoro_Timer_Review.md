@@ -14,7 +14,7 @@
 
 #  Hyperfocus and  ScatterFocus
 
-[[402d_ChrisBailey_Hyperfocus#Ch6. ScatterFocus| Hyperfocus ]] 책을 읽으면서 Scatterfocus 에 대해 새롭게 알게 되었는데요. 단편적으로 멍때리면 뇌에 좋다. 명상이 뇌에 좋다 등의 식으로 알고 있던 막연함을 ScatterFocus chapter를 읽으면서 어떻게 활용할지 고민하기 시작했어요. 
+[[402d_ChrisBailey_Hyperfocus]] 책을 읽으면서 Scatterfocus 에 대해 새롭게 알게 되었는데요. 단편적으로 멍때리면 뇌에 좋다. 명상이 뇌에 좋다 등의 식으로 알고 있던 막연함을 ScatterFocus chapter를 읽으면서 어떻게 활용할지 고민하기 시작했어요. 
 Hyperfocus 는 짐작하시다시피 제대로 집중해서 Productivity를 올리는 행위이고, ScatterFocus는 명상/운동/요가 처럼 뇌를 자유롭게 풀어두고 Creativity를 키우기위한 행위라고 보시면 되요. Distraction과는 다릅니다. 오히려 샤워를 하거나,  잠들기 전이라던가, 산책을 하며 의식적으로 (Intentionally) 떠오르는 생각들을 자유롭게 내버려 두는 시간이라고 보시는 게 더 정확합니다.  단순히 쉬는 시간, TV보며 쉬는 여가 시간과 구분이 되시나요? 
 Hyperfocus와 ScatterFocus는 서로 대비되는 개념이라기 보다, 상호 보완적이라고 생각하는데요. Productivity를 위해 집중해서 일하다가 막힐 때, ScatterFocus 시간에 꽤 신박한 개념이 갑자기 떠오르는 사례가 자주 있지요. Archimedes가 Eureka를 외쳤던 곳이 왜 하필 목욕탕이었을까요? 욕조에 물을 담그는 행위에서 힌트를 얻긴했지만, Scatterfocus하기 좋은 시간이 샤워나 목욕할 때 이기도 하거든요. 실제로 샤워하다가 괜찮은 아이디어가 떠오른 적 있지 않으신가요? 
  Scatterfocus는 이 정도로만 하고, 뽀모도로와 어떻게 연관 되는지 알아볼게요. 
