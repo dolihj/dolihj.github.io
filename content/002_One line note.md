@@ -1,5 +1,5 @@
 Viktor Frankl : For success, like happiness, cannot be pursued, it must ensue - flow link :
-(한국할머니 번역: 마지막에 웃는 놈이 좋은 인생인 줄 알았는데, 자주 웃는 놈이 좋은 인생이었어 )
+(한국할머니 버전: 마지막에 웃는 놈이 좋은 인생인 줄 알았는데, 자주 웃는 놈이 좋은 인생이었어 )
 
 Collectors don't make progress ( ref : zettlekasten collectors-fallacy)
 
@@ -9,7 +9,7 @@ Collectors don't make progress ( ref : zettlekasten collectors-fallacy)
 
 내가 옳다고 남을 비난할 수는 없다. if you are a logic bully 
 
-기회는 재빠른 물고기 같다. 내가 그물을 준비했다면 물고기를 잡을 확률은 올라가지만 , 아무 준비 없이 맨손으로 덤비는 자에겐  기회는 호락호락 잡혀주지 않는다.  
+기회는 재빠른 물고기 같다. 내가 그물을 준비했다면 물고기를 잡을 확률은 올라간다.그러니까 그물을 짜고 손질 하는 건 평상시에 하자.   
 
 움츠리고 살지 마세요. 목디스크만 생길 뿐 입니디
 

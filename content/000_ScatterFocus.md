@@ -13,4 +13,4 @@
 
 [[003a_ship30for30 Framework 2 - use cases]] - online writing framework study
 
-
+[[006_Pomodoro_Timer_Review]] - How and Why I use Pomodoro timer
