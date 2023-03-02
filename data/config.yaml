@@ -1,4 +1,4 @@
-name: Jacky Zhao
+name: DoliHJ
 enableToc: true
 openToc: false
 enableLinkPreview: true
@@ -12,18 +12,18 @@ enableContextualBacklinks: true
 enableRecentNotes: false
 enableGitHubEdit: true
 enableMermaid: true
-GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
+GitHubLink: https://dolihj.github.io/ 
 search:
   enableSemanticSearch: false
   operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
   operandIndexId: "REPLACE-WITH-YOUR-OPERAND-INDEX-ID"
 description:
-  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
-  Wikilink support, backlinks, local graph, tags, and link previews.
+  HJ's Obsidian Notes are here - with the support from Quartz by Jacky Zhao and GitHub Page 
+  Quartz features -  full-text search,Wikilink support, backlinks, local graph, tags, and link previews.
 page_title:
-  "🪴 DoliHJ's Quart+GitHubPage "
+  "🪴 DoliHJ's Quartz+GitHubPage "
 links:
-  - link_name: Twitter
-    link: No Twitter
+  - link_name: Email
+    link: mailto:dalbi.lee@gmail.com
   - link_name: GitHub
     link: https://github.com/dolihj
