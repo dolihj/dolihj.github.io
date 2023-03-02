@@ -15,5 +15,5 @@ Many people might be told of NASA's space launching failure and the reason was a
 Community rethinking encourages you to join the challenge network which has different opinions and background members. And it shows a circular flow diagram of a person who is obsessed with the flat earth myth. One idea hits their minds, the next step would be searching and joining the group having similar thoughts. It ensured their insistence and they easily fall into the overconfidence cycle. One day, NPR broadcasted an interview with the capital riots after they were convicted. They said they believe they were doing the right thing patriotically and they tried to save the country. I was shocked a group of homogeneous thinkers could be dangerous. And we see that very similar social phenomenon in group communities almost everywhere. Healthy nature has a variety of organs. A healthy society should embrace diversity. From there, we can start constructive feedback and community should require psychological safety without worrying of being different. 
 
 
-# Conclusion 
-[TBD]
+# Author's TedTalk  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CIlgTBmiov0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

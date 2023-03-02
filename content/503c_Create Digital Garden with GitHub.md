@@ -42,7 +42,16 @@ git token : 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
 hugo-obsidian : 
 - install go lang : brew install go lang 
 - install hugo-obsidian : go install github.com/jackyzha0/hugo-obsidian@latest
-- 
+
+```bash
+# Navigate to your local Quartz folder
+cd <location-of-your-local-quartz>
+
+# Start local server
+make serve
+
+# View your site in a browser at http://localhost:1313/
+```
 
 hugo-obsidian command not found error s
 ```shell
