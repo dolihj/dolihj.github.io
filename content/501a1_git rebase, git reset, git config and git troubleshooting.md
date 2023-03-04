@@ -30,6 +30,8 @@ git commit --amend --author="HJ Park <hyun.park@jhuapl.edu>"
 git reset _file.  or git reset __ 
 
 # Unstage from working directory
-git restore 
+git restore _file_
+
+git restore --cached file 
 
 

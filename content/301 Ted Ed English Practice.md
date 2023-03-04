@@ -5,8 +5,7 @@
 [[300a3_neuron|02.19  Uncovering the brain's biggest secret]] - Melanie E. Peffer   https://youtu.be/iQqSKfPop28
 
 
-02.26 The left brain vs. right brain myth - Elizabeth Waters https://youtu.be/ZMSbDwpIyF4
-
+[[300a4_brain | 02.26 The left brain vs. right brain myth]] - Elizabeth Waters https://youtu.be/ZMSbDwpIyF4
 
 
 # Future! 
