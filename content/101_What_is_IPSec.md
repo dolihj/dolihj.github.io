@@ -1,5 +1,3 @@
-Type : #literature
-[[IPSec]]
 2022-05-24
 
 # IP Sec
