@@ -9,7 +9,7 @@ Reference:
 ![](106a1_z3_Theorem.png)
 
 Diffie-Hellman is used for Key exchange not for encryption 
-![[106a1_z2_DH_key exchange.png]]
+![](106a1_z2_DH_key.png)
 
 # Diffie-Hellman Vulnerability 
 Man in the middle attack 
