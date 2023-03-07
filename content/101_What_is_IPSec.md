@@ -32,12 +32,12 @@ https://aws-hyoh.tistory.com/162
 * GNS3Vault Lab
 https://gns3vault.com/tunneling/site-to-site-ipsec-vpn
 
-[[STS_VPN_gns3]]
+[[101a_STS_VPN_gns3]]
 
 # Frame
 
-![](ipsec_AH_transport.png) 
+![](101_ipsec_AH_transport.png) 
 ref source : http://www.unixwiz.net/techtips/iguide-ipsec.html
 
 
-![](ipsec_AH_Tunnel.png)
+![](101_ipsec_AH_Tunnel.png)

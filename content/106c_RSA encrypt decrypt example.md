@@ -2,7 +2,7 @@
 [open tutorial](https://opentutorials.org/course/228/4894) Public Key, SSL,
 
 # Related Docs
-[[106_RSA algorithm with Proof and Digial Cert]], [[Learning Cryptography and Network Security]]
+[[106_RSA algorithm with Proof and Digial Cert]], [[106d_Digital Cert]]
 
 # Openssl Encrypt Decrypt
 
